@@ -3,14 +3,14 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 1,
-			"revision" : 11,
+			"minor" : 2,
+			"revision" : 2,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 53.0, 1372.0, 813.0 ],
+		"rect" : [ 120.0, 206.0, 1372.0, 813.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -121,8 +121,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -272,13 +272,12 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-9",
-									"linecount" : 2,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 105.0, 257.0, 41.5, 35.0 ],
-									"text" : "62.305407"
+									"text" : "bang"
 								}
 
 							}
@@ -621,8 +620,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -960,10 +959,10 @@
 						"styles" : [ 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -986,8 +985,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -1005,8 +1004,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -1297,7 +1296,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2619.750060999999732, 3460.643555000000106, 103.0, 74.0 ],
-					"presentation_linecount" : 5,
 					"text" : "note: now lateralized to the left (for left foot). put 0.5 if you want central"
 				}
 
@@ -1461,7 +1459,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2691.638732999999775, 3149.976807000000008, 260.0, 33.0 ],
-					"presentation_linecount" : 2,
 					"text" : "choose which of the items in the dropbdown menu loads by default  (starting from 0) - now 2"
 				}
 
@@ -1506,8 +1503,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -2084,8 +2081,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -2932,10 +2929,10 @@
 , 											{
 												"name" : "gst.comment",
 												"default" : 												{
-													"fontsize" : [ 12.0 ],
-													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 													"fontname" : [ "Helvetica Light" ],
-													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+													"fontsize" : [ 12.0 ],
+													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -2958,8 +2955,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -2977,8 +2974,8 @@
 , 											{
 												"name" : "white",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "chiba",
@@ -3135,8 +3132,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -3835,10 +3832,10 @@
 , 											{
 												"name" : "gst.comment",
 												"default" : 												{
-													"fontsize" : [ 12.0 ],
-													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 													"fontname" : [ "Helvetica Light" ],
-													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+													"fontsize" : [ 12.0 ],
+													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -3861,8 +3858,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -3880,8 +3877,8 @@
 , 											{
 												"name" : "white",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "chiba",
@@ -3984,21 +3981,6 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "signal", "signal" ],
 									"patching_rect" : [ 264.25, 521.0, 103.0, 35.0 ],
-									"saved_object_attributes" : 									{
-										"basictuning" : 440,
-										"followglobaltempo" : 0,
-										"formantcorrection" : 0,
-										"loopend" : [ 0.0, "ms" ],
-										"loopstart" : [ 0.0, "ms" ],
-										"mode" : "basic",
-										"originallength" : [ 2858.840819999999894, "ticks" ],
-										"originaltempo" : 120.000002356189924,
-										"phase" : [ 0.0, "ticks" ],
-										"pitchcorrection" : 0,
-										"quality" : "basic",
-										"timestretch" : [ 1 ]
-									}
-,
 									"text" : "groove~ bing @timestretch 1"
 								}
 
@@ -4561,10 +4543,10 @@
 , 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -4587,8 +4569,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -4606,8 +4588,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -4704,7 +4686,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2543.878418000000238, 3084.0, 261.0, 33.0 ],
-					"presentation_linecount" : 2,
 					"text" : "MAPPING 5 - FSR lift  to string sound (initiate/pulling movement ) - RIGHT shoe"
 				}
 
@@ -4808,8 +4789,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -4959,13 +4940,12 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-9",
-									"linecount" : 2,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 105.0, 257.0, 41.5, 35.0 ],
-									"text" : "40.241884"
+									"text" : "bang"
 								}
 
 							}
@@ -5308,8 +5288,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -5647,10 +5627,10 @@
 						"styles" : [ 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -5673,8 +5653,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -5692,8 +5672,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -6191,8 +6171,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -6769,8 +6749,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -7618,10 +7598,10 @@
 , 											{
 												"name" : "gst.comment",
 												"default" : 												{
-													"fontsize" : [ 12.0 ],
-													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 													"fontname" : [ "Helvetica Light" ],
-													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+													"fontsize" : [ 12.0 ],
+													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -7644,8 +7624,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -7663,8 +7643,8 @@
 , 											{
 												"name" : "white",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "chiba",
@@ -7821,8 +7801,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -8521,10 +8501,10 @@
 , 											{
 												"name" : "gst.comment",
 												"default" : 												{
-													"fontsize" : [ 12.0 ],
-													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 													"fontname" : [ "Helvetica Light" ],
-													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+													"fontsize" : [ 12.0 ],
+													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -8547,8 +8527,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -8566,8 +8546,8 @@
 , 											{
 												"name" : "white",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "chiba",
@@ -8670,21 +8650,6 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "signal", "signal" ],
 									"patching_rect" : [ 264.25, 521.0, 103.0, 35.0 ],
-									"saved_object_attributes" : 									{
-										"basictuning" : 440,
-										"followglobaltempo" : 0,
-										"formantcorrection" : 0,
-										"loopend" : [ 0.0, "ms" ],
-										"loopstart" : [ 0.0, "ms" ],
-										"mode" : "basic",
-										"originallength" : [ 2858.840819999999894, "ticks" ],
-										"originaltempo" : 120.000002356189924,
-										"phase" : [ 0.0, "ticks" ],
-										"pitchcorrection" : 0,
-										"quality" : "basic",
-										"timestretch" : [ 1 ]
-									}
-,
 									"text" : "groove~ bing @timestretch 1"
 								}
 
@@ -9247,10 +9212,10 @@
 , 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -9273,8 +9238,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -9292,8 +9257,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -9849,8 +9814,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -11439,8 +11404,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -11890,8 +11855,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -12517,8 +12482,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -12623,8 +12588,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -13092,8 +13057,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -13166,8 +13131,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -14078,8 +14043,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -14184,8 +14149,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -14653,8 +14618,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -14800,8 +14765,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -15521,10 +15486,10 @@
 , 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -15547,8 +15512,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -15566,8 +15531,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -15901,8 +15866,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -16007,8 +15972,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -16476,8 +16441,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -16734,8 +16699,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -17531,8 +17496,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -18060,10 +18025,10 @@
 , 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -18086,8 +18051,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -18105,8 +18070,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -18164,8 +18129,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -19031,8 +18996,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -19493,8 +19458,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -19624,21 +19589,6 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "signal", "signal" ],
 									"patching_rect" : [ 195.5, 258.865723000000003, 151.0, 22.0 ],
-									"saved_object_attributes" : 									{
-										"basictuning" : 440,
-										"followglobaltempo" : 0,
-										"formantcorrection" : 0,
-										"loopend" : [ 0.0, "ms" ],
-										"loopstart" : [ 0.0, "ms" ],
-										"mode" : "basic",
-										"originallength" : [ 806.421752999999967, "ticks" ],
-										"originaltempo" : 119.999999864635825,
-										"phase" : [ 0.0, "ticks" ],
-										"pitchcorrection" : 0,
-										"quality" : "basic",
-										"timestretch" : [ 0 ]
-									}
-,
 									"text" : "groove~ sample2 @loop 0"
 								}
 
@@ -20215,10 +20165,10 @@
 , 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -20241,8 +20191,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -20260,8 +20210,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -20306,8 +20256,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -20785,8 +20735,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -20916,21 +20866,6 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "signal", "signal" ],
 									"patching_rect" : [ 195.5, 258.865723000000003, 151.0, 22.0 ],
-									"saved_object_attributes" : 									{
-										"basictuning" : 440,
-										"followglobaltempo" : 0,
-										"formantcorrection" : 0,
-										"loopend" : [ 0.0, "ms" ],
-										"loopstart" : [ 0.0, "ms" ],
-										"mode" : "basic",
-										"originallength" : [ 806.421752999999967, "ticks" ],
-										"originaltempo" : 119.999999864635825,
-										"phase" : [ 0.0, "ticks" ],
-										"pitchcorrection" : 0,
-										"quality" : "basic",
-										"timestretch" : [ 0 ]
-									}
-,
 									"text" : "groove~ sample2 @loop 0"
 								}
 
@@ -21507,10 +21442,10 @@
 , 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -21533,8 +21468,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -21552,8 +21487,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -21664,8 +21599,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -22126,8 +22061,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -22339,21 +22274,6 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "signal", "signal" ],
 									"patching_rect" : [ 46.0, 417.0, 151.0, 22.0 ],
-									"saved_object_attributes" : 									{
-										"basictuning" : 440,
-										"followglobaltempo" : 0,
-										"formantcorrection" : 0,
-										"loopend" : [ 0.0, "ms" ],
-										"loopstart" : [ 0.0, "ms" ],
-										"mode" : "basic",
-										"originallength" : [ 806.421752999999967, "ticks" ],
-										"originaltempo" : 119.999999864635825,
-										"phase" : [ 0.0, "ticks" ],
-										"pitchcorrection" : 0,
-										"quality" : "basic",
-										"timestretch" : [ 0 ]
-									}
-,
 									"text" : "groove~ sample2 @loop 0"
 								}
 
@@ -22531,10 +22451,10 @@
 , 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -22557,8 +22477,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -22576,8 +22496,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -22643,8 +22563,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -23225,8 +23145,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -23803,8 +23723,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -24651,10 +24571,10 @@
 , 											{
 												"name" : "gst.comment",
 												"default" : 												{
-													"fontsize" : [ 12.0 ],
-													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 													"fontname" : [ "Helvetica Light" ],
-													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+													"fontsize" : [ 12.0 ],
+													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -24677,8 +24597,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -24696,8 +24616,8 @@
 , 											{
 												"name" : "white",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "chiba",
@@ -24854,8 +24774,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -25554,10 +25474,10 @@
 , 											{
 												"name" : "gst.comment",
 												"default" : 												{
-													"fontsize" : [ 12.0 ],
-													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 													"fontname" : [ "Helvetica Light" ],
-													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+													"fontsize" : [ 12.0 ],
+													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -25580,8 +25500,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -25599,8 +25519,8 @@
 , 											{
 												"name" : "white",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "chiba",
@@ -25703,23 +25623,6 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "signal", "signal" ],
 									"patching_rect" : [ 264.25, 521.0, 103.0, 35.0 ],
-									"saved_object_attributes" : 									{
-										"basictuning" : 440,
-										"followglobaltempo" : 0,
-										"formantcorrection" : 0,
-										"loopend" : [ 0.0, "ms" ],
-										"loopstart" : [ 0.0, "ms" ],
-										"mode" : "basic",
-										"originallength" : [ 2858.840819999999894, "ticks" ],
-										"originaltempo" : 120.000002356189924,
-										"phase" : [ 0.0, "ticks" ],
-										"pitchcorrection" : 0,
-										"pitchshift" : [ 0.5 ],
-										"pitchshiftcent" : [ -1200 ],
-										"quality" : "basic",
-										"timestretch" : [ 1 ]
-									}
-,
 									"text" : "groove~ bing @timestretch 1"
 								}
 
@@ -26282,10 +26185,10 @@
 , 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -26308,8 +26211,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -26327,8 +26230,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -26542,8 +26445,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -27120,8 +27023,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -27968,10 +27871,10 @@
 , 											{
 												"name" : "gst.comment",
 												"default" : 												{
-													"fontsize" : [ 12.0 ],
-													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 													"fontname" : [ "Helvetica Light" ],
-													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+													"fontsize" : [ 12.0 ],
+													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -27994,8 +27897,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -28013,8 +27916,8 @@
 , 											{
 												"name" : "white",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "chiba",
@@ -28171,8 +28074,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -28871,10 +28774,10 @@
 , 											{
 												"name" : "gst.comment",
 												"default" : 												{
-													"fontsize" : [ 12.0 ],
-													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 													"fontname" : [ "Helvetica Light" ],
-													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+													"fontsize" : [ 12.0 ],
+													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -28897,8 +28800,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -28916,8 +28819,8 @@
 , 											{
 												"name" : "white",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "chiba",
@@ -29020,23 +28923,6 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "signal", "signal" ],
 									"patching_rect" : [ 264.25, 521.0, 103.0, 35.0 ],
-									"saved_object_attributes" : 									{
-										"basictuning" : 440,
-										"followglobaltempo" : 0,
-										"formantcorrection" : 0,
-										"loopend" : [ 0.0, "ms" ],
-										"loopstart" : [ 0.0, "ms" ],
-										"mode" : "basic",
-										"originallength" : [ 2858.840819999999894, "ticks" ],
-										"originaltempo" : 120.000002356189924,
-										"phase" : [ 0.0, "ticks" ],
-										"pitchcorrection" : 0,
-										"pitchshift" : [ 0.5 ],
-										"pitchshiftcent" : [ -1200 ],
-										"quality" : "basic",
-										"timestretch" : [ 1 ]
-									}
-,
 									"text" : "groove~ bing @timestretch 1"
 								}
 
@@ -29599,10 +29485,10 @@
 , 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -29625,8 +29511,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -29644,8 +29530,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -29927,8 +29813,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -30033,8 +29919,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -30504,8 +30390,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -30578,8 +30464,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -31503,8 +31389,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -31900,10 +31786,10 @@
 						"styles" : [ 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -31926,8 +31812,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -31945,8 +31831,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -32005,8 +31891,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -32078,8 +31964,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -32362,8 +32248,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 1,
-															"revision" : 11,
+															"minor" : 2,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -32991,8 +32877,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -33527,8 +33413,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -33631,8 +33517,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 1,
-															"revision" : 11,
+															"minor" : 2,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -34533,10 +34419,10 @@
 						"styles" : [ 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -34559,8 +34445,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -34578,8 +34464,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -35257,8 +35143,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -35835,8 +35721,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -36683,10 +36569,10 @@
 , 											{
 												"name" : "gst.comment",
 												"default" : 												{
-													"fontsize" : [ 12.0 ],
-													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 													"fontname" : [ "Helvetica Light" ],
-													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+													"fontsize" : [ 12.0 ],
+													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -36709,8 +36595,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -36728,8 +36614,8 @@
 , 											{
 												"name" : "white",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "chiba",
@@ -36886,8 +36772,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -37586,10 +37472,10 @@
 , 											{
 												"name" : "gst.comment",
 												"default" : 												{
-													"fontsize" : [ 12.0 ],
-													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 													"fontname" : [ "Helvetica Light" ],
-													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+													"fontsize" : [ 12.0 ],
+													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -37612,8 +37498,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -37631,8 +37517,8 @@
 , 											{
 												"name" : "white",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "chiba",
@@ -37735,23 +37621,6 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "signal", "signal" ],
 									"patching_rect" : [ 264.25, 521.0, 103.0, 35.0 ],
-									"saved_object_attributes" : 									{
-										"basictuning" : 440,
-										"followglobaltempo" : 0,
-										"formantcorrection" : 0,
-										"loopend" : [ 0.0, "ms" ],
-										"loopstart" : [ 0.0, "ms" ],
-										"mode" : "basic",
-										"originallength" : [ 2858.840819999999894, "ticks" ],
-										"originaltempo" : 120.000002356189924,
-										"phase" : [ 0.0, "ticks" ],
-										"pitchcorrection" : 0,
-										"pitchshift" : [ 2.0 ],
-										"pitchshiftcent" : [ 1200 ],
-										"quality" : "basic",
-										"timestretch" : [ 1 ]
-									}
-,
 									"text" : "groove~ bing @timestretch 1"
 								}
 
@@ -38314,10 +38183,10 @@
 , 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -38340,8 +38209,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -38359,8 +38228,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -38882,8 +38751,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -39460,8 +39329,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -40308,10 +40177,10 @@
 , 											{
 												"name" : "gst.comment",
 												"default" : 												{
-													"fontsize" : [ 12.0 ],
-													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 													"fontname" : [ "Helvetica Light" ],
-													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+													"fontsize" : [ 12.0 ],
+													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -40334,8 +40203,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -40353,8 +40222,8 @@
 , 											{
 												"name" : "white",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "chiba",
@@ -40511,8 +40380,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -41211,10 +41080,10 @@
 , 											{
 												"name" : "gst.comment",
 												"default" : 												{
-													"fontsize" : [ 12.0 ],
-													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 													"fontname" : [ "Helvetica Light" ],
-													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+													"fontsize" : [ 12.0 ],
+													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -41237,8 +41106,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -41256,8 +41125,8 @@
 , 											{
 												"name" : "white",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "chiba",
@@ -41360,21 +41229,6 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "signal", "signal" ],
 									"patching_rect" : [ 264.25, 521.0, 103.0, 35.0 ],
-									"saved_object_attributes" : 									{
-										"basictuning" : 440,
-										"followglobaltempo" : 0,
-										"formantcorrection" : 0,
-										"loopend" : [ 0.0, "ms" ],
-										"loopstart" : [ 0.0, "ms" ],
-										"mode" : "basic",
-										"originallength" : [ 2858.840819999999894, "ticks" ],
-										"originaltempo" : 120.000002356189924,
-										"phase" : [ 0.0, "ticks" ],
-										"pitchcorrection" : 0,
-										"quality" : "basic",
-										"timestretch" : [ 1 ]
-									}
-,
 									"text" : "groove~ bing @timestretch 1"
 								}
 
@@ -41937,10 +41791,10 @@
 , 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -41963,8 +41817,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -41982,8 +41836,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -42669,8 +42523,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -42909,8 +42763,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -43378,8 +43232,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -43977,8 +43831,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -44781,8 +44635,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -45359,8 +45213,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -46207,10 +46061,10 @@
 , 											{
 												"name" : "gst.comment",
 												"default" : 												{
-													"fontsize" : [ 12.0 ],
-													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 													"fontname" : [ "Helvetica Light" ],
-													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+													"fontsize" : [ 12.0 ],
+													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -46233,8 +46087,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -46252,8 +46106,8 @@
 , 											{
 												"name" : "white",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "chiba",
@@ -46410,8 +46264,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -47110,10 +46964,10 @@
 , 											{
 												"name" : "gst.comment",
 												"default" : 												{
-													"fontsize" : [ 12.0 ],
-													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 													"fontname" : [ "Helvetica Light" ],
-													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+													"fontsize" : [ 12.0 ],
+													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -47136,8 +46990,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -47155,8 +47009,8 @@
 , 											{
 												"name" : "white",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "chiba",
@@ -47259,23 +47113,6 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "signal", "signal" ],
 									"patching_rect" : [ 264.25, 521.0, 103.0, 35.0 ],
-									"saved_object_attributes" : 									{
-										"basictuning" : 440,
-										"followglobaltempo" : 0,
-										"formantcorrection" : 0,
-										"loopend" : [ 0.0, "ms" ],
-										"loopstart" : [ 0.0, "ms" ],
-										"mode" : "basic",
-										"originallength" : [ 2858.840819999999894, "ticks" ],
-										"originaltempo" : 120.000002356189924,
-										"phase" : [ 0.0, "ticks" ],
-										"pitchcorrection" : 0,
-										"pitchshift" : [ 0.5 ],
-										"pitchshiftcent" : [ -1200 ],
-										"quality" : "basic",
-										"timestretch" : [ 1 ]
-									}
-,
 									"text" : "groove~ bing @timestretch 1"
 								}
 
@@ -47838,10 +47675,10 @@
 , 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -47864,8 +47701,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -47883,8 +47720,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -47955,8 +47792,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -48550,10 +48387,10 @@
 						"styles" : [ 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -48576,8 +48413,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -48595,8 +48432,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -48799,8 +48636,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -48881,8 +48718,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -49386,8 +49223,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -49725,10 +49562,10 @@
 						"styles" : [ 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -49751,8 +49588,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -49770,8 +49607,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -49911,8 +49748,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -50124,21 +49961,6 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "signal", "signal" ],
 									"patching_rect" : [ 46.0, 417.0, 151.0, 22.0 ],
-									"saved_object_attributes" : 									{
-										"basictuning" : 440,
-										"followglobaltempo" : 0,
-										"formantcorrection" : 0,
-										"loopend" : [ 0.0, "ms" ],
-										"loopstart" : [ 0.0, "ms" ],
-										"mode" : "basic",
-										"originallength" : [ 806.421752999999967, "ticks" ],
-										"originaltempo" : 119.999999864635825,
-										"phase" : [ 0.0, "ticks" ],
-										"pitchcorrection" : 0,
-										"quality" : "basic",
-										"timestretch" : [ 0 ]
-									}
-,
 									"text" : "groove~ sample2 @loop 0"
 								}
 
@@ -50316,10 +50138,10 @@
 , 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -50342,8 +50164,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -50361,8 +50183,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -50454,6 +50276,7 @@
 					"enablevscroll" : 0,
 					"id" : "obj-416",
 					"lockeddragscroll" : 0,
+					"lockedsize" : 0,
 					"maxclass" : "bpatcher",
 					"name" : "gst.synth.sampler-v3.beta.maxpat",
 					"numinlets" : 3,
@@ -50582,8 +50405,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -50875,8 +50698,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -51558,6 +51381,7 @@
 					"enablevscroll" : 0,
 					"id" : "obj-83",
 					"lockeddragscroll" : 0,
+					"lockedsize" : 0,
 					"maxclass" : "bpatcher",
 					"name" : "gst.synth.FM.beta.maxpat",
 					"numinlets" : 6,
@@ -51653,8 +51477,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -52119,10 +51943,10 @@
 						"styles" : [ 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -52145,8 +51969,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -52164,8 +51988,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -52505,8 +52329,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -52941,8 +52765,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -54277,8 +54101,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -54347,8 +54171,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -55356,8 +55180,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -55477,8 +55301,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -56295,8 +56119,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -56429,8 +56253,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 1,
-															"revision" : 11,
+															"minor" : 2,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -56770,8 +56594,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 1,
-															"revision" : 11,
+															"minor" : 2,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -56818,8 +56642,8 @@
 																		"fileversion" : 1,
 																		"appversion" : 																		{
 																			"major" : 8,
-																			"minor" : 1,
-																			"revision" : 11,
+																			"minor" : 2,
+																			"revision" : 2,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -57085,8 +56909,8 @@
 																		"fileversion" : 1,
 																		"appversion" : 																		{
 																			"major" : 8,
-																			"minor" : 1,
-																			"revision" : 11,
+																			"minor" : 2,
+																			"revision" : 2,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -57351,8 +57175,8 @@
 																		"fileversion" : 1,
 																		"appversion" : 																		{
 																			"major" : 8,
-																			"minor" : 1,
-																			"revision" : 11,
+																			"minor" : 2,
+																			"revision" : 2,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -57617,8 +57441,8 @@
 																		"fileversion" : 1,
 																		"appversion" : 																		{
 																			"major" : 8,
-																			"minor" : 1,
-																			"revision" : 11,
+																			"minor" : 2,
+																			"revision" : 2,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -57883,8 +57707,8 @@
 																		"fileversion" : 1,
 																		"appversion" : 																		{
 																			"major" : 8,
-																			"minor" : 1,
-																			"revision" : 11,
+																			"minor" : 2,
+																			"revision" : 2,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -58848,10 +58672,10 @@
 										"styles" : [ 											{
 												"name" : "gst.comment",
 												"default" : 												{
-													"fontsize" : [ 12.0 ],
-													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 													"fontname" : [ "Helvetica Light" ],
-													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+													"fontsize" : [ 12.0 ],
+													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -58874,8 +58698,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -58893,8 +58717,8 @@
 , 											{
 												"name" : "white",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "chiba",
@@ -58937,8 +58761,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -59852,8 +59676,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -60443,8 +60267,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 1,
-															"revision" : 11,
+															"minor" : 2,
+															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -62716,10 +62540,10 @@
 						"styles" : [ 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -62742,8 +62566,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -62761,8 +62585,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -62954,8 +62778,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -65020,8 +64844,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -65598,8 +65422,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -66446,10 +66270,10 @@
 , 											{
 												"name" : "gst.comment",
 												"default" : 												{
-													"fontsize" : [ 12.0 ],
-													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 													"fontname" : [ "Helvetica Light" ],
-													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+													"fontsize" : [ 12.0 ],
+													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -66472,8 +66296,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -66491,8 +66315,8 @@
 , 											{
 												"name" : "white",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "chiba",
@@ -66649,8 +66473,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -67349,10 +67173,10 @@
 , 											{
 												"name" : "gst.comment",
 												"default" : 												{
-													"fontsize" : [ 12.0 ],
-													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 													"fontname" : [ "Helvetica Light" ],
-													"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+													"fontsize" : [ 12.0 ],
+													"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -67375,8 +67199,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -67394,8 +67218,8 @@
 , 											{
 												"name" : "white",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
 ,
 												"parentstyle" : "chiba",
@@ -67498,21 +67322,6 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "signal", "signal" ],
 									"patching_rect" : [ 264.25, 521.0, 103.0, 35.0 ],
-									"saved_object_attributes" : 									{
-										"basictuning" : 440,
-										"followglobaltempo" : 0,
-										"formantcorrection" : 0,
-										"loopend" : [ 0.0, "ms" ],
-										"loopstart" : [ 0.0, "ms" ],
-										"mode" : "basic",
-										"originallength" : [ 2858.840819999999894, "ticks" ],
-										"originaltempo" : 120.000002356189924,
-										"phase" : [ 0.0, "ticks" ],
-										"pitchcorrection" : 0,
-										"quality" : "basic",
-										"timestretch" : [ 1 ]
-									}
-,
 									"text" : "groove~ bing @timestretch 1"
 								}
 
@@ -68075,10 +67884,10 @@
 , 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -68101,8 +67910,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -68120,8 +67929,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -68193,8 +68002,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -68665,8 +68474,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -69194,10 +69003,10 @@
 , 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -69220,8 +69029,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -69239,8 +69048,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -69298,8 +69107,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -69735,8 +69544,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -69841,8 +69650,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -70322,8 +70131,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -70917,10 +70726,10 @@
 						"styles" : [ 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -70943,8 +70752,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -70962,8 +70771,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -71093,8 +70902,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -71356,8 +71165,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -72050,8 +71859,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -72197,8 +72006,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -72918,10 +72727,10 @@
 , 							{
 								"name" : "gst.comment",
 								"default" : 								{
-									"fontsize" : [ 12.0 ],
-									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 									"fontname" : [ "Helvetica Light" ],
-									"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+									"fontsize" : [ 12.0 ],
+									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -72944,8 +72753,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -72963,8 +72772,8 @@
 , 							{
 								"name" : "white",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "chiba",
@@ -77633,96 +77442,46 @@
 		}
 ,
 		"dependency_cache" : [ 			{
-				"name" : "kick.maxpat",
-				"bootpath" : "~/Documents/Max 8/Projects/v9/patchers",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
 				"name" : "1d-concat.maxpat",
-				"bootpath" : "~/Documents/Max 8/Projects/v9/patchers",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "riots-bitalino-5new.maxpat",
-				"bootpath" : "~/Documents/Max 8/Projects/v9/patchers",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "riotbitalino.maxpat",
-				"bootpath" : "~/Documents/Max 8/Projects/v9/patchers",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "intensity.maxpat",
-				"bootpath" : "~/Documents/Max 8/Projects/v9/patchers",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "gst.synth.FM.beta.maxpat",
-				"bootpath" : "~/Documents/Max 8/Projects/v9/patchers",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "simpleFM~.maxpat",
-				"bootpath" : "~/Documents/Max 8/Projects/v9/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "audio.ctrl.maxpat",
-				"bootpath" : "~/Documents/Max 8/Projects/v9/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "gst.synth.FM.beta.maxpat",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "gst.synth.sampler-v3.beta.maxpat",
-				"bootpath" : "~/Documents/Max 8/Projects/v9/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "synth.poly-clickless-sampler.beta.maxpat",
-				"bootpath" : "~/Documents/Max 8/Projects/v9/patchers",
+				"name" : "intensity.maxpat",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "transratio.maxpat",
-				"bootpath" : "~/Documents/Max 8/Projects/v9/patchers",
+				"name" : "kick.maxpat",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
-			}
-, 			{
-				"name" : "yafr2.maxpat",
-				"bootpath" : "~/Documents/Max 8/Projects/v9/patchers",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "pipo.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "mubu.mxo",
-				"type" : "iLaX"
 			}
 , 			{
 				"name" : "mubu.concat~.mxo",
@@ -77737,19 +77496,11 @@
 				"type" : "iLaX"
 			}
 , 			{
-				"name" : "mubu.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "mubu.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "mubu.mxo",
-				"type" : "iLaX"
-			}
-, 			{
 				"name" : "orientation.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "pipo.mxo",
 				"type" : "iLaX"
 			}
 , 			{
@@ -77757,12 +77508,46 @@
 				"type" : "iLaX"
 			}
 , 			{
-				"name" : "mubu.mxo",
-				"type" : "iLaX"
+				"name" : "riotbitalino.maxpat",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
 			}
 , 			{
-				"name" : "mubu.mxo",
-				"type" : "iLaX"
+				"name" : "riots-bitalino-5new.maxpat",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "simpleFM~.maxpat",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "synth.poly-clickless-sampler.beta.maxpat",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "transratio.maxpat",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "yafr2.maxpat",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
 			}
  ],
 		"autosave" : 0,
@@ -77796,10 +77581,10 @@
 , 			{
 				"name" : "gst.comment",
 				"default" : 				{
-					"fontsize" : [ 12.0 ],
-					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ],
 					"fontname" : [ "Helvetica Light" ],
-					"clearcolor" : [ 0.254902, 0.27451, 0.32549, 1.0 ]
+					"fontsize" : [ 12.0 ],
+					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -77822,8 +77607,8 @@
 , 			{
 				"name" : "newobjYellow-1",
 				"default" : 				{
-					"fontsize" : [ 12.059008 ],
-					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+					"fontsize" : [ 12.059008 ]
 				}
 ,
 				"parentstyle" : "",
@@ -77841,8 +77626,8 @@
 , 			{
 				"name" : "white",
 				"default" : 				{
-					"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+					"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
 ,
 				"parentstyle" : "chiba",
