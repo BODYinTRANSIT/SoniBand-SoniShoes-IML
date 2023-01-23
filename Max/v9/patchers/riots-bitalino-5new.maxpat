@@ -3,8 +3,8 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 0,
-			"revision" : 4,
+			"minor" : 3,
+			"revision" : 3,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -37,6 +37,7 @@
 		"tags" : "",
 		"style" : "",
 		"subpatcher_template" : "",
+		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
 					"id" : "obj-52",
@@ -406,8 +407,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 0,
-							"revision" : 4,
+							"minor" : 3,
+							"revision" : 3,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -440,6 +441,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"assistshowspatchername" : 0,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-12",
@@ -1805,8 +1807,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 0,
-							"revision" : 4,
+							"minor" : 3,
+							"revision" : 3,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -1839,6 +1841,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"assistshowspatchername" : 0,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-30",
@@ -2549,8 +2552,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 0,
-							"revision" : 4,
+							"minor" : 3,
+							"revision" : 3,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -2583,6 +2586,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"assistshowspatchername" : 0,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-12",
@@ -3948,8 +3952,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 0,
-							"revision" : 4,
+							"minor" : 3,
+							"revision" : 3,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -3982,6 +3986,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"assistshowspatchername" : 0,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-30",
@@ -4626,8 +4631,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 0,
-							"revision" : 4,
+							"minor" : 3,
+							"revision" : 3,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -4660,6 +4665,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"assistshowspatchername" : 0,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-12",
@@ -6025,8 +6031,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 0,
-							"revision" : 4,
+							"minor" : 3,
+							"revision" : 3,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -6059,6 +6065,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"assistshowspatchername" : 0,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-30",

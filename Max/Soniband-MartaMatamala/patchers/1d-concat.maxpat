@@ -3,8 +3,8 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 0,
-			"revision" : 4,
+			"minor" : 3,
+			"revision" : 3,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -37,6 +37,7 @@
 		"tags" : "",
 		"style" : "",
 		"subpatcher_template" : "",
+		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
 					"comment" : "",
@@ -96,6 +97,10 @@
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "" ],
 					"patching_rect" : [ 1069.0, 330.0, 318.0, 22.0 ],
+					"saved_object_attributes" : 					{
+						"verbose" : 1
+					}
+,
 					"text" : "mubu.track #0-concat audio @maxsize 60s @predef 1"
 				}
 
@@ -364,7 +369,12 @@
 					"saved_object_attributes" : 					{
 						"embed" : 0,
 						"externalfiles" : 1,
-						"savegui" : 0
+						"parameter_enable" : 0,
+						"parameter_mappable" : 0,
+						"resamplefiles" : 0,
+						"savegui" : 0,
+						"snaprate" : 1000.0,
+						"verbose" : 1
 					}
 ,
 					"text" : "mubu empty"
@@ -394,7 +404,12 @@
 					"saved_object_attributes" : 					{
 						"embed" : 0,
 						"externalfiles" : 1,
-						"savegui" : 0
+						"parameter_enable" : 0,
+						"parameter_mappable" : 0,
+						"resamplefiles" : 0,
+						"savegui" : 0,
+						"snaprate" : 1000.0,
+						"verbose" : 1
 					}
 ,
 					"text" : "mubu #0-concat"
@@ -764,8 +779,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 0,
-							"revision" : 4,
+							"minor" : 3,
+							"revision" : 3,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -798,6 +813,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"assistshowspatchername" : 0,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-7",
@@ -872,7 +888,7 @@
 									"maxclass" : "inlet",
 									"numinlets" : 0,
 									"numoutlets" : 1,
-									"outlettype" : [ "" ],
+									"outlettype" : [ "bang" ],
 									"patching_rect" : [ 50.0, 40.0, 25.0, 25.0 ]
 								}
 
@@ -1045,8 +1061,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 0,
-							"revision" : 4,
+							"minor" : 3,
+							"revision" : 3,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -1079,6 +1095,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"assistshowspatchername" : 0,
 						"boxes" : [ 							{
 								"box" : 								{
 									"comment" : "",
@@ -1297,13 +1314,13 @@
 									"maxclass" : "newobj",
 									"numinlets" : 4,
 									"numoutlets" : 3,
-									"outlettype" : [ "", "", "" ],
+									"outlettype" : [ "bang", "", "" ],
 									"patcher" : 									{
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 0,
-											"revision" : 4,
+											"minor" : 3,
+											"revision" : 3,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -1336,6 +1353,7 @@
 										"tags" : "",
 										"style" : "",
 										"subpatcher_template" : "",
+										"assistshowspatchername" : 0,
 										"boxes" : [ 											{
 												"box" : 												{
 													"comment" : "",
@@ -1436,8 +1454,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 0,
-															"revision" : 4,
+															"minor" : 3,
+															"revision" : 3,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -1470,6 +1488,7 @@
 														"tags" : "",
 														"style" : "",
 														"subpatcher_template" : "",
+														"assistshowspatchername" : 0,
 														"boxes" : [ 															{
 																"box" : 																{
 																	"fontname" : "Arial",
@@ -1837,7 +1856,7 @@
 													"maxclass" : "inlet",
 													"numinlets" : 0,
 													"numoutlets" : 1,
-													"outlettype" : [ "" ],
+													"outlettype" : [ "update" ],
 													"patching_rect" : [ 400.0, 40.0, 25.0, 25.0 ]
 												}
 
@@ -2038,13 +2057,13 @@
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
-									"outlettype" : [ "" ],
+									"outlettype" : [ "resetoutputs" ],
 									"patcher" : 									{
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 0,
-											"revision" : 4,
+											"minor" : 3,
+											"revision" : 3,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -2077,6 +2096,7 @@
 										"tags" : "",
 										"style" : "",
 										"subpatcher_template" : "",
+										"assistshowspatchername" : 0,
 										"boxes" : [ 											{
 												"box" : 												{
 													"fontname" : "Arial",
@@ -2290,6 +2310,11 @@
 									"numoutlets" : 3,
 									"outlettype" : [ "signal", "signal", "" ],
 									"patching_rect" : [ 37.875, 480.0, 897.0, 35.0 ],
+									"saved_object_attributes" : 									{
+										"outputstate" : 0,
+										"resampleaudioinput" : 0
+									}
+,
 									"text" : "mubu.concat~ 2 #0-concat @audio audio @markers markers @advance 5 @attack 5 @release 20 @durationcol Duration @play 0 @duration 0. 1. @duplicatechannels 1 @allowrepeatmarkers 1"
 								}
 
@@ -2366,6 +2391,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
+									"parameter_enable" : 0,
 									"patching_rect" : [ 655.875, 410.0, 214.0, 22.0 ]
 								}
 
@@ -2623,11 +2649,20 @@
 					"bufferchooser_shape" : "buttons",
 					"bufferchooser_size" : 12,
 					"bufferchooser_visible" : 1,
+					"cursor_circleedgecolor" : [ 1.0, 0.0, 0.0, 1.0 ],
+					"cursor_circlefillcolor" : [ 1.0, 0.0, 0.0, 1.0 ],
+					"cursor_circlefilled" : 1,
+					"cursor_circleheight" : 3.0,
+					"cursor_circlewidth" : 3.0,
 					"cursor_color" : [ 1.0, 0.0, 0.0, 1.0 ],
 					"cursor_followmouse" : 0,
+					"cursor_nearest" : 0,
+					"cursor_nearestcolor" : [ 1.0, 0.0, 0.0, 1.0 ],
+					"cursor_noringoffset" : 0,
 					"cursor_position" : -1.0,
 					"cursor_shape" : "bar",
 					"cursor_size" : 3,
+					"cursor_sizeunit" : 0,
 					"cursor_visible" : 1,
 					"domain_bounds" : [ 0.0, 1.0 ],
 					"domainruler_bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
@@ -2642,9 +2677,11 @@
 					"domainscrollbar_visible" : 1,
 					"embed" : 0,
 					"externalfiles" : 1,
+					"freeze" : 0,
 					"id" : "obj-1",
 					"layout" : 0,
 					"maxclass" : "imubu",
+					"mousewheelscroll" : 0,
 					"name" : "#0-concat",
 					"numinlets" : 1,
 					"numoutlets" : 1,
@@ -2657,6 +2694,8 @@
 					"outputselection" : 0,
 					"outputtimeselection" : 0,
 					"outputvalues" : 0,
+					"outputviewname" : 0,
+					"parameter_enable" : 0,
 					"patching_rect" : [ 822.5, 370.0, 599.0, 220.0 ],
 					"rangeruler_grid" : 0,
 					"rangeruler_size" : 35,
@@ -2664,17 +2703,21 @@
 					"region_bounds" : [ 0.0, 0.0 ],
 					"region_color" : [ 0.8, 0.7, 0.7, 1.0 ],
 					"region_visible" : 1,
+					"resamplefiles" : 0,
+					"snaprate" : 1000.0,
 					"split_color" : [ 1.0, 0.0, 0.0, 1.0 ],
 					"split_size" : 2,
 					"split_visible" : 1,
 					"tabs_position" : 0,
 					"tabs_size" : 20,
 					"tabs_visible" : 1,
+					"tool" : "edit",
 					"toolbar_bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"toolbar_position" : 1,
 					"toolbar_size" : 30,
 					"toolbar_visible" : 1,
 					"useplaceholders" : 1,
+					"verbose" : 1,
 					"windresize" : 0
 				}
 

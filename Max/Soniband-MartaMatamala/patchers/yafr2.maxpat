@@ -3,8 +3,8 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 0,
-			"revision" : 4,
+			"minor" : 3,
+			"revision" : 3,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -37,6 +37,7 @@
 		"tags" : "",
 		"style" : "",
 		"subpatcher_template" : "",
+		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
 					"fontname" : "Lato",
@@ -116,8 +117,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 0,
-							"revision" : 4,
+							"minor" : 3,
+							"revision" : 3,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -150,6 +151,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"assistshowspatchername" : 0,
 						"boxes" : [ 							{
 								"box" : 								{
 									"comment" : "",
@@ -713,13 +715,13 @@
 								"name" : "AudioStatus_Menu",
 								"default" : 								{
 									"bgfillcolor" : 									{
-										"type" : "color",
+										"angle" : 270.0,
+										"autogradient" : 0,
 										"color" : [ 0.294118, 0.313726, 0.337255, 1 ],
 										"color1" : [ 0.454902, 0.462745, 0.482353, 0.0 ],
 										"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-										"angle" : 270.0,
 										"proportion" : 0.39,
-										"autogradient" : 0
+										"type" : "color"
 									}
 
 								}
@@ -757,8 +759,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 0,
-							"revision" : 4,
+							"minor" : 3,
+							"revision" : 3,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -791,6 +793,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"assistshowspatchername" : 0,
 						"boxes" : [ 							{
 								"box" : 								{
 									"comment" : "",

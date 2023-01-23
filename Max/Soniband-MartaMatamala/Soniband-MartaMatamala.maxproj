@@ -1,16 +1,16 @@
 {
-	"name" : "v9",
+	"name" : "SoniBand-SoniShoes",
 	"version" : 1,
-	"creationdate" : 3662647971,
-	"modificationdate" : 3728053549,
-	"viewrect" : [ 25.0, 87.0, 502.0, 717.0 ],
+	"creationdate" : 3757317964,
+	"modificationdate" : 3757317965,
+	"viewrect" : [ 0.0, 0.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
 	"autolocalize" : 0,
 	"contents" : 	{
 		"patchers" : 		{
-			"v9.maxpat" : 			{
+			"SoniBand-SoniShoes.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
@@ -23,9 +23,6 @@
 		}
 ,
 		"other" : 		{
-			"Marvel GEQ.vst" : 			{
-				"kind" : "audioplugin"
-			}
 
 		}
 
@@ -39,11 +36,11 @@
 
 	}
 ,
-	"detailsvisible" : 1,
-	"amxdtype" : 1633771873,
+	"detailsvisible" : 0,
+	"amxdtype" : 0,
 	"readonly" : 0,
 	"devpathtype" : 0,
 	"devpath" : ".",
 	"sortmode" : 0,
-	"viewmode" : 1
+	"viewmode" : 0
 }
