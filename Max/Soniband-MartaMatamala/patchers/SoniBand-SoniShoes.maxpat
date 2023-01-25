@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 66.0, 1372.0, 813.0 ],
+		"rect" : [ 59.0, 66.0, 1643.0, 813.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -27227,7 +27227,7 @@
 					"presentation" : 1,
 					"presentation_linecount" : 3,
 					"presentation_rect" : [ -162.962646484375, 211.3565673828125, 315.0, 49.0 ],
-					"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/prueba caminata_02-D2023_25_01-T16_01_37.mubu\""
+					"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/_02-D2023_25_01-T16_27_34.mubu\""
 				}
 
 			}
@@ -28612,7 +28612,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 331.0, 193.0, 1444.0, 785.0 ],
+						"rect" : [ 34.0, 100.0, 1444.0, 785.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -29390,7 +29390,7 @@
 									"cursor_size" : 3,
 									"cursor_sizeunit" : 0,
 									"cursor_visible" : 1,
-									"domain_bounds" : [ 0.0, 2830.0 ],
+									"domain_bounds" : [ 0.0, 2810.0 ],
 									"domainruler_bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 									"domainruler_fgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 									"domainruler_grid" : 0,
@@ -32917,7 +32917,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 374.0, 445.0, 552.0, 33.0 ],
-													"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/prueba caminata_02-D2023_25_01-T16_01_37\""
+													"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/_02-D2023_25_01-T16_27_34\""
 												}
 
 											}
@@ -34119,7 +34119,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 486.0, 660.3565673828125, 909.0, 22.0 ],
-									"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/prueba caminata_02-D2023_25_01-T16_01_37\""
+									"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/_02-D2023_25_01-T16_27_34\""
 								}
 
 							}
