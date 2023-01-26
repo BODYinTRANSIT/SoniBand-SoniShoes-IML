@@ -2,8 +2,8 @@
 	"name" : "v8-2",
 	"version" : 1,
 	"creationdate" : 3622204841,
-	"modificationdate" : 3622204842,
-	"viewrect" : [ 0.0, 0.0, 300.0, 500.0 ],
+	"modificationdate" : 3757570762,
+	"viewrect" : [ 250.0, 104.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -14,6 +14,14 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+
+		}
+,
+		"media" : 		{
+			"stopmotionbros__wind.m4a" : 			{
+				"kind" : "audiofile",
+				"local" : 1
 			}
 
 		}
@@ -41,5 +49,6 @@
 	"readonly" : 0,
 	"devpathtype" : 0,
 	"devpath" : ".",
-	"sortmode" : 0
+	"sortmode" : 0,
+	"viewmode" : 0
 }
