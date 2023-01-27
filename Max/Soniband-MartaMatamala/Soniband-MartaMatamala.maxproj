@@ -2,7 +2,7 @@
 	"name" : "Soniband-MartaMatamala",
 	"version" : 1,
 	"creationdate" : 3757317964,
-	"modificationdate" : 3757587950,
+	"modificationdate" : 3757664742,
 	"viewrect" : [ 25.0, 107.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -25,6 +25,26 @@
 			}
 ,
 			"Wind.wav" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"Solid_Discret_Cyclic.wav" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"wind_motion_smooth.wav" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"motion_wind.m4a" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"motion_wind.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
@@ -51,6 +71,5 @@
 	"devpathtype" : 0,
 	"devpath" : ".",
 	"sortmode" : 0,
-	"viewmode" : 0,
-	"includepackages" : 0
+	"viewmode" : 0
 }
