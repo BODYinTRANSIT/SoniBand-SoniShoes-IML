@@ -3,14 +3,14 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 5,
+			"minor" : 2,
 			"revision" : 2,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 49.0, 1129.0, 926.0 ],
+		"rect" : [ 34.0, 66.0, 1478.0, 819.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -40,6 +40,38 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
+					"id" : "obj-98",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 296.416655999999989, 649.274382999999943, 189.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ -76.875017275161753, 460.012679614395097, 200.0, 22.0 ],
+					"text" : "replace wind_motion_smooth.wav"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
+					"id" : "obj-97",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 700.375, 740.574797999999987, 189.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 282.142840385437012, 456.618742120407092, 200.0, 22.0 ],
+					"text" : "replace wind_motion_smooth.wav"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"fontface" : 2,
 					"fontname" : "Arial",
 					"fontsize" : 14.0,
@@ -48,9 +80,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 419.416655999999989, 166.333327999999995, 129.0, 39.0 ],
+					"patching_rect" : [ 419.416655999999989, 166.333327999999995, 129.0, 38.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 148.764476232742254, 390.093089518035868, 418.505508899688721, 23.0 ],
+					"presentation_rect" : [ 148.764476232742254, 390.093089518035868, 418.505508899688721, 22.0 ],
 					"text" : "Calibration 0.01-0.09"
 				}
 
@@ -65,9 +97,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 404.416655999999989, 151.333327999999995, 129.0, 39.0 ],
+					"patching_rect" : [ 404.416655999999989, 151.333327999999995, 129.0, 38.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 926.764476232742254, 379.197458795173588, 418.505508899688721, 23.0 ],
+					"presentation_rect" : [ 926.764476232742254, 379.197458795173588, 418.505508899688721, 22.0 ],
 					"text" : "Calibration 0.01-0.09"
 				}
 
@@ -99,9 +131,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 389.416655999999989, 136.333327999999995, 129.0, 55.0 ],
+					"patching_rect" : [ 389.416655999999989, 136.333327999999995, 129.0, 53.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 672.764476232742254, 298.487181544303894, 418.505508899688721, 23.0 ],
+					"presentation_rect" : [ 672.764476232742254, 298.487181544303894, 418.505508899688721, 22.0 ],
 					"text" : "Mapping of Mechanical sound  with accelerometer"
 				}
 
@@ -116,9 +148,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 374.416655999999989, 121.333327999999995, 124.0, 55.0 ],
+					"patching_rect" : [ 374.416655999999989, 121.333327999999995, 124.0, 53.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ -61.78739187555675, 303.267402291297913, 418.505508899688721, 23.0 ],
+					"presentation_rect" : [ -61.78739187555675, 303.267402291297913, 418.505508899688721, 22.0 ],
 					"text" : "Mapping of Wind  sound with accelerometer"
 				}
 
@@ -147,7 +179,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -787,7 +819,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1417.0, 300.5, 150.0, 34.0 ],
+					"patching_rect" : [ 1417.0, 300.5, 150.0, 33.0 ],
 					"text" : "Comment la sensibilidad necesita estar en 0.01"
 				}
 
@@ -833,7 +865,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -1098,7 +1130,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -1519,10 +1551,10 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1485.35327099999995, 589.774779999999964, 147.0, 36.0 ],
+					"patching_rect" : [ 1485.35327099999995, 589.774779999999964, 147.0, 35.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 2,
-					"presentation_rect" : [ 1109.050096425628681, 424.049496734886134, 147.0, 36.0 ],
+					"presentation_rect" : [ 1109.050096425628681, 424.049496734886134, 147.0, 35.0 ],
 					"text" : "readtrack audio Solid_Discret_Cyclic.wav"
 				}
 
@@ -1566,7 +1598,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -1831,7 +1863,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -2216,14 +2248,14 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ -18245.0, -18203.0, 528.0, 704.0 ],
+						"rect" : [ 34.0, 100.0, 528.0, 704.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -2307,7 +2339,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 40.449950999999999, 5.0, 150.0, 34.0 ],
+									"patching_rect" : [ 40.449950999999999, 5.0, 150.0, 33.0 ],
 									"text" : "Joaku version with cross bang"
 								}
 
@@ -2428,7 +2460,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 183.449950999999999, 164.0, 150.0, 34.0 ],
+									"patching_rect" : [ 183.449950999999999, 164.0, 150.0, 33.0 ],
 									"text" : "duration min max mean stddev"
 								}
 
@@ -2465,7 +2497,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 164.449950999999999, 411.5, 188.0, 50.0 ],
+									"patching_rect" : [ 164.449950999999999, 411.5, 188.0, 49.0 ],
 									"text" : "slice.size 1024, slice.hop 256, onseg.filtersize 2, onseg.mininter 20, onseg.threshold 0."
 								}
 
@@ -2930,10 +2962,10 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1190.35327099999995, 598.774779999999964, 147.0, 36.0 ],
+					"patching_rect" : [ 1190.35327099999995, 598.774779999999964, 147.0, 35.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 2,
-					"presentation_rect" : [ 747.49610649785609, 424.049496734886134, 147.0, 36.0 ],
+					"presentation_rect" : [ 747.49610649785609, 424.049496734886134, 147.0, 35.0 ],
 					"text" : "readtrack audio Solid_Discret_Cyclic.wav"
 				}
 
@@ -3018,7 +3050,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -3417,7 +3449,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 696.0, 705.574797999999987, 143.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 267.142840385437012, 441.618742120407092, 200.0, 22.0 ],
+					"presentation_rect" : [ 282.142840385437012, 424.049496734886134, 200.0, 22.0 ],
 					"text" : "replace motion_wind.wav"
 				}
 
@@ -3456,7 +3488,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -3967,7 +3999,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 246.0, 341.718352999999979, 362.0, 89.0 ],
+					"patching_rect" : [ 246.0, 341.718352999999979, 362.0, 87.0 ],
 					"text" : "Wind only Acc\nplaying a sound when detecting certain acceleration. Without using concat, just trigger and looping sound as long as the acceleration is over a certain threshold and stoppint it (atfter a delay) it when the acceleration is below the threshold. \n"
 				}
 
@@ -4065,9 +4097,9 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 214.0, 649.408293999999955, 143.0, 22.0 ],
+					"patching_rect" : [ 214.0, 677.408293999999955, 143.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ -91.875017275161753, 445.012679614395097, 200.0, 22.0 ],
+					"presentation_rect" : [ -76.875017275161753, 424.049496734886134, 200.0, 22.0 ],
 					"text" : "replace motion_wind.wav"
 				}
 
@@ -4094,7 +4126,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -4629,7 +4661,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -4952,7 +4984,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 269.416655999999989, 1318.193236999999726, 172.0, 62.0 ],
+					"patching_rect" : [ 269.416655999999989, 1318.193236999999726, 172.0, 60.0 ],
 					"text" : "CALIBRATION - do it once at the beginning of the task"
 				}
 
@@ -4964,7 +4996,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 2373.670422449493344, 1380.725097999999889, 172.0, 25.0 ],
+					"patching_rect" : [ 2373.670422449493344, 1380.725097999999889, 172.0, 24.0 ],
 					"text" : "up only"
 				}
 
@@ -5028,7 +5060,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -5525,7 +5557,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -6189,7 +6221,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 2839.155395949493141, 1927.368652999999995, 103.0, 75.0 ],
+					"patching_rect" : [ 2839.155395949493141, 1927.368652999999995, 103.0, 74.0 ],
 					"text" : "note: now lateralized to the left (for left foot). put 0.5 if you want central"
 				}
 
@@ -6249,7 +6281,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 2705.211059949493574, 1789.81005899999991, 60.124786, 34.0 ],
+					"patching_rect" : [ 2705.211059949493574, 1789.81005899999991, 60.124786, 33.0 ],
 					"text" : "min (octave)"
 				}
 
@@ -6261,7 +6293,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 2781.155395949493141, 1789.81005899999991, 58.124786, 34.0 ],
+					"patching_rect" : [ 2781.155395949493141, 1789.81005899999991, 58.124786, 33.0 ],
 					"text" : "max (octave)"
 				}
 
@@ -6323,7 +6355,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 2856.752563949493378, 1775.81005899999991, 74.062377999999995, 48.0 ],
+					"patching_rect" : [ 2856.752563949493378, 1775.81005899999991, 74.062377999999995, 47.0 ],
 					"text" : "time for reaching max (s)"
 				}
 
@@ -6335,7 +6367,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 2911.044067949493183, 1616.701904999999897, 260.0, 34.0 ],
+					"patching_rect" : [ 2911.044067949493183, 1616.701904999999897, 260.0, 33.0 ],
 					"text" : "choose which of the items in the dropbdown menu loads by default  (starting from 0) - now 2"
 				}
 
@@ -6376,7 +6408,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -6954,7 +6986,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 2,
 											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -8005,7 +8037,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 2,
 											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -8918,7 +8950,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"parameter_enable" : 0,
 									"patching_rect" : [ 80.0, 521.0, 150.0, 22.0 ]
 								}
 
@@ -9553,7 +9584,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 2763.283752949493646, 1550.725097999999889, 261.0, 34.0 ],
+					"patching_rect" : [ 2763.283752949493646, 1550.725097999999889, 261.0, 33.0 ],
 					"text" : "MAPPING 5 - FSR lift  to string sound (initiate/pulling movement ) - RIGHT shoe"
 				}
 
@@ -9669,7 +9700,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -11255,7 +11286,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -11704,7 +11735,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -11938,7 +11969,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1182.35327099999995, 1702.833251999999902, 147.0, 36.0 ],
+					"patching_rect" : [ 1182.35327099999995, 1702.833251999999902, 147.0, 35.0 ],
 					"text" : "readtrack audio Solid_Discret_Cyclic.wav"
 				}
 
@@ -12135,7 +12166,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 29.41666, 2453.0, 138.0, 48.0 ],
+					"patching_rect" : [ 29.41666, 2453.0, 138.0, 47.0 ],
 					"text" : "MAPPING  - accelerometer to underwater sound"
 				}
 
@@ -12163,7 +12194,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -12665,7 +12696,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -12738,7 +12769,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 2,
 											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -13023,7 +13054,7 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 5,
+															"minor" : 2,
 															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
@@ -13149,7 +13180,6 @@
 																	"numinlets" : 1,
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
-																	"parameter_enable" : 0,
 																	"patching_rect" : [ 94.0, 271.0, 186.0, 22.0 ]
 																}
 
@@ -13338,7 +13368,6 @@
 																	"numinlets" : 1,
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
-																	"parameter_enable" : 0,
 																	"patching_rect" : [ 85.0, 240.0, 186.0, 22.0 ]
 																}
 
@@ -13462,7 +13491,6 @@
 													"numinlets" : 1,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"parameter_enable" : 0,
 													"patching_rect" : [ 514.0, 165.0, 150.0, 22.0 ]
 												}
 
@@ -13655,7 +13683,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 2,
 											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -14191,7 +14219,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 2,
 											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -14287,7 +14315,6 @@
 													"fontname" : "Geneva",
 													"fontsize" : 10.0,
 													"id" : "obj-49",
-													"linecount" : 2,
 													"maxclass" : "newobj",
 													"numinlets" : 2,
 													"numoutlets" : 1,
@@ -14296,7 +14323,7 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 5,
+															"minor" : 2,
 															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
@@ -14336,7 +14363,7 @@
 																	"fontname" : "Geneva",
 																	"fontsize" : 10.0,
 																	"id" : "obj-13",
-																	"linecount" : 4,
+																	"linecount" : 3,
 																	"maxclass" : "comment",
 																	"numinlets" : 1,
 																	"numoutlets" : 0,
@@ -14378,7 +14405,6 @@
 																	"fontname" : "Geneva",
 																	"fontsize" : 10.0,
 																	"id" : "obj-9",
-																	"linecount" : 2,
 																	"maxclass" : "newobj",
 																	"numinlets" : 3,
 																	"numoutlets" : 1,
@@ -15273,7 +15299,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1451.666382000000112, 2.320267, 362.0, 89.0 ],
+					"patching_rect" : [ 1451.666382000000112, 2.320267, 362.0, 87.0 ],
 					"text" : "MAPPING 8bis - WIND acc\nplaying a sound when detecting certain acceleration. Without using concat, just trigger and looping sound as long as the acceleration is over a certain threshold and stoppint it (atfter a delay) it when the acceleration is below the threshold. \n"
 				}
 
@@ -15513,7 +15539,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1693.395995999999968, 2406.585938000000169, 103.0, 75.0 ],
+					"patching_rect" : [ 1693.395995999999968, 2406.585938000000169, 103.0, 74.0 ],
 					"text" : "note: now lateralized to the left (for left foot). put 0.5 if you want central"
 				}
 
@@ -15562,7 +15588,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1559.451659999999947, 2269.027344000000085, 60.124786, 34.0 ],
+					"patching_rect" : [ 1559.451659999999947, 2269.027344000000085, 60.124786, 33.0 ],
 					"text" : "min (octave)"
 				}
 
@@ -15574,7 +15600,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1635.395995999999968, 2269.027344000000085, 58.124786, 34.0 ],
+					"patching_rect" : [ 1635.395995999999968, 2269.027344000000085, 58.124786, 33.0 ],
 					"text" : "max (octave)"
 				}
 
@@ -15636,7 +15662,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1710.993163999999979, 2255.027344000000085, 74.062377999999995, 48.0 ],
+					"patching_rect" : [ 1710.993163999999979, 2255.027344000000085, 74.062377999999995, 47.0 ],
 					"text" : "time for reaching max (s)"
 				}
 
@@ -15648,7 +15674,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1763.284668000000011, 2109.918944999999894, 260.0, 34.0 ],
+					"patching_rect" : [ 1763.284668000000011, 2109.918944999999894, 260.0, 33.0 ],
 					"text" : "choose which of the items in the dropbdown menu loads by default  (starting from 0) - now 2"
 				}
 
@@ -15689,7 +15715,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -16267,7 +16293,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 2,
 											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -17318,7 +17344,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 2,
 											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -18231,7 +18257,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"parameter_enable" : 0,
 									"patching_rect" : [ 80.0, 521.0, 150.0, 22.0 ]
 								}
 
@@ -18804,7 +18829,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1529.895995999999968, 2066.942139000000225, 261.0, 34.0 ],
+					"patching_rect" : [ 1529.895995999999968, 2066.942139000000225, 261.0, 33.0 ],
 					"text" : "MAPPING 5 - FSR lift  to string sound (initiate/pulling movement ) - RIGHT shoe"
 				}
 
@@ -19091,7 +19116,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 799.37506099999996, 2448.836913999999979, 103.0, 75.0 ],
+					"patching_rect" : [ 799.37506099999996, 2448.836913999999979, 103.0, 74.0 ],
 					"text" : "note: now lateralized to the left (for left foot). put 0.5 if you want central"
 				}
 
@@ -19151,7 +19176,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 665.430725000000052, 2311.278319999999894, 60.124786, 34.0 ],
+					"patching_rect" : [ 665.430725000000052, 2311.278319999999894, 60.124786, 33.0 ],
 					"text" : "min (octave)"
 				}
 
@@ -19163,7 +19188,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 741.37506099999996, 2311.278319999999894, 58.124786, 34.0 ],
+					"patching_rect" : [ 741.37506099999996, 2311.278319999999894, 58.124786, 33.0 ],
 					"text" : "max (octave)"
 				}
 
@@ -19225,7 +19250,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 816.97222899999997, 2297.278319999999894, 74.062377999999995, 48.0 ],
+					"patching_rect" : [ 816.97222899999997, 2297.278319999999894, 74.062377999999995, 47.0 ],
 					"text" : "time for reaching max (s)"
 				}
 
@@ -19237,7 +19262,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 871.263733000000002, 2138.170165999999881, 260.0, 34.0 ],
+					"patching_rect" : [ 871.263733000000002, 2138.170165999999881, 260.0, 33.0 ],
 					"text" : "choose which of the items in the dropbdown menu loads by default  (starting from 0) - now 2"
 				}
 
@@ -19278,7 +19303,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -19856,7 +19881,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 2,
 											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -20907,7 +20932,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 2,
 											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -21820,7 +21845,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"parameter_enable" : 0,
 									"patching_rect" : [ 80.0, 521.0, 150.0, 22.0 ]
 								}
 
@@ -22456,7 +22480,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 74.666661499999975, 1312.526611000000003, 172.0, 62.0 ],
+					"patching_rect" : [ 74.666661499999975, 1312.526611000000003, 172.0, 60.0 ],
 					"text" : "CALIBRATION - do it once at the beginning of the task"
 				}
 
@@ -22479,7 +22503,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 131.166641000000027, 2261.193358999999873, 146.0, 34.0 ],
+					"patching_rect" : [ 131.166641000000027, 2261.193358999999873, 146.0, 33.0 ],
 					"text" : "MAPPING 10: up sound  condition"
 				}
 
@@ -22834,7 +22858,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 723.503418000000011, 2072.193358999999873, 261.0, 34.0 ],
+					"patching_rect" : [ 723.503418000000011, 2072.193358999999873, 261.0, 33.0 ],
 					"text" : "MAPPING 5 - FSR lift  to string sound (initiate/pulling movement ) - RIGHT shoe"
 				}
 
@@ -22947,7 +22971,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -23187,7 +23211,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 2,
 											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -23654,7 +23678,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -24006,7 +24030,6 @@
 									"numoutlets" : 1,
 									"orientation" : 1,
 									"outlettype" : [ "" ],
-									"parameter_enable" : 0,
 									"patching_rect" : [ 316.25, 308.0, 83.0, 46.0 ],
 									"text_width" : 83.0
 								}
@@ -24240,7 +24263,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -24783,7 +24806,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -24865,7 +24888,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 2,
 											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -25323,7 +25346,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 566.419800000000009, 1420.026489000000083, 138.0, 48.0 ],
+					"patching_rect" : [ 566.419800000000009, 1420.026489000000083, 138.0, 47.0 ],
 					"text" : "MAPPING  - accelerometer to underwater sound"
 				}
 
@@ -25335,7 +25358,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 207.541655999999989, 1465.693237000000181, 108.0, 34.0 ],
+					"patching_rect" : [ 207.541655999999989, 1465.693237000000181, 108.0, 33.0 ],
 					"text" : "MAPPING 7 - water condition"
 				}
 
@@ -25363,7 +25386,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -25874,7 +25897,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 161.318816999999996, 69.999886000000004, 41.0, 23.0 ],
+					"patching_rect" : [ 161.318816999999996, 69.999886000000004, 41.0, 22.0 ],
 					"text" : "riot3"
 				}
 
@@ -25888,9 +25911,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 161.318816999999996, 45.999885999999996, 77.0, 23.0 ],
+					"patching_rect" : [ 161.318816999999996, 45.999885999999996, 77.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ -34.097808837890625, 61.999885559082031, 77.0, 23.0 ],
+					"presentation_rect" : [ -34.097808837890625, 61.999885559082031, 77.0, 22.0 ],
 					"text" : "riot2 - right"
 				}
 
@@ -25904,9 +25927,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 161.318816999999996, 23.499915999999999, 69.107483000000002, 23.0 ],
+					"patching_rect" : [ 161.318816999999996, 23.499915999999999, 69.107483000000002, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ -34.097808837890625, 39.499916076660156, 69.10748291015625, 23.0 ],
+					"presentation_rect" : [ -34.097808837890625, 39.499916076660156, 69.10748291015625, 22.0 ],
 					"text" : "riot1 - left"
 				}
 
@@ -25990,7 +26013,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -26209,7 +26232,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 783.80633499999999, 75.392180999999994, 98.0, 23.0 ],
+					"patching_rect" : [ 783.80633499999999, 75.392180999999994, 98.0, 22.0 ],
 					"text" : "filter condition"
 				}
 
@@ -26223,7 +26246,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 783.80633499999999, 44.107970999999999, 98.0, 23.0 ],
+					"patching_rect" : [ 783.80633499999999, 44.107970999999999, 98.0, 22.0 ],
 					"text" : "vst plugin"
 				}
 
@@ -26238,9 +26261,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 359.416655999999989, 137.333327999999995, 132.0, 23.0 ],
+					"patching_rect" : [ 359.416655999999989, 137.333327999999995, 132.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 164.000030517578125, 153.333328247070312, 132.0, 23.0 ],
+					"presentation_rect" : [ 164.000030517578125, 153.333328247070312, 132.0, 22.0 ],
 					"text" : "start/stop recording",
 					"textcolor" : [ 0.870588004589081, 0.415686011314392, 0.062744997441769, 1.0 ]
 				}
@@ -26255,9 +26278,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 359.416655999999989, 106.333327999999995, 124.0, 23.0 ],
+					"patching_rect" : [ 359.416655999999989, 106.333327999999995, 124.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 164.000030517578125, 122.333328247070312, 124.0, 23.0 ],
+					"presentation_rect" : [ 164.000030517578125, 122.333328247070312, 124.0, 22.0 ],
 					"text" : "current filenumber"
 				}
 
@@ -26285,9 +26308,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 359.416655999999989, 77.107971000000006, 171.0, 23.0 ],
+					"patching_rect" : [ 359.416655999999989, 77.107971000000006, 171.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 164.000030517578125, 93.10797119140625, 171.0, 23.0 ],
+					"presentation_rect" : [ 164.000030517578125, 93.10797119140625, 171.0, 22.0 ],
 					"text" : "initial filenumber "
 				}
 
@@ -26329,9 +26352,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 359.416655999999989, 45.107970999999999, 177.0, 23.0 ],
+					"patching_rect" : [ 359.416655999999989, 45.107970999999999, 177.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 164.000030517578125, 61.10797119140625, 177.0, 23.0 ],
+					"presentation_rect" : [ 164.000030517578125, 61.10797119140625, 177.0, 22.0 ],
 					"text" : "filename prefix (click once)"
 				}
 
@@ -26344,10 +26367,10 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 32.4539794921875, 195.3565673828125, 315.0, 50.0 ],
+					"patching_rect" : [ 32.4539794921875, 195.3565673828125, 315.0, 49.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 3,
-					"presentation_rect" : [ -162.962646484375, 211.3565673828125, 315.0, 50.0 ],
+					"presentation_rect" : [ -162.962646484375, 211.3565673828125, 315.0, 49.0 ],
 					"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/_02-D2023_25_01-T16_27_34.mubu\""
 				}
 
@@ -26390,7 +26413,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -27726,7 +27749,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -27796,7 +27819,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 2,
 											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -28806,7 +28829,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -28927,7 +28950,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 2,
 											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -29745,7 +29768,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 2,
 											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -29879,7 +29902,7 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 5,
+															"minor" : 2,
 															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
@@ -30220,7 +30243,7 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 5,
+															"minor" : 2,
 															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
@@ -30268,7 +30291,7 @@
 																		"fileversion" : 1,
 																		"appversion" : 																		{
 																			"major" : 8,
-																			"minor" : 5,
+																			"minor" : 2,
 																			"revision" : 2,
 																			"architecture" : "x64",
 																			"modernui" : 1
@@ -30535,7 +30558,7 @@
 																		"fileversion" : 1,
 																		"appversion" : 																		{
 																			"major" : 8,
-																			"minor" : 5,
+																			"minor" : 2,
 																			"revision" : 2,
 																			"architecture" : "x64",
 																			"modernui" : 1
@@ -30801,7 +30824,7 @@
 																		"fileversion" : 1,
 																		"appversion" : 																		{
 																			"major" : 8,
-																			"minor" : 5,
+																			"minor" : 2,
 																			"revision" : 2,
 																			"architecture" : "x64",
 																			"modernui" : 1
@@ -31067,7 +31090,7 @@
 																		"fileversion" : 1,
 																		"appversion" : 																		{
 																			"major" : 8,
-																			"minor" : 5,
+																			"minor" : 2,
 																			"revision" : 2,
 																			"architecture" : "x64",
 																			"modernui" : 1
@@ -31333,7 +31356,7 @@
 																		"fileversion" : 1,
 																		"appversion" : 																		{
 																			"major" : 8,
-																			"minor" : 5,
+																			"minor" : 2,
 																			"revision" : 2,
 																			"architecture" : "x64",
 																			"modernui" : 1
@@ -31591,7 +31614,6 @@
 																	"fontname" : "Helvetica",
 																	"fontsize" : 12.0,
 																	"id" : "obj-40",
-																	"linecount" : 2,
 																	"maxclass" : "newobj",
 																	"numinlets" : 2,
 																	"numoutlets" : 2,
@@ -32388,7 +32410,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 2,
 											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -33303,7 +33325,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 2,
 											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -33894,7 +33916,7 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 5,
+															"minor" : 2,
 															"revision" : 2,
 															"architecture" : "x64",
 															"modernui" : 1
@@ -36342,10 +36364,10 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 359.416655999999989, 11.833344, 147.0, 39.0 ],
+					"patching_rect" : [ 359.416655999999989, 11.833344, 147.0, 38.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 2,
-					"presentation_rect" : [ 164.000030517578125, 27.833343505859375, 147.0, 39.0 ],
+					"presentation_rect" : [ 164.000030517578125, 27.833343505859375, 147.0, 38.0 ],
 					"text" : "select a directory (saved with patch)"
 				}
 
@@ -36401,7 +36423,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -36628,7 +36650,6 @@
 									"numoutlets" : 1,
 									"orientation" : 1,
 									"outlettype" : [ "" ],
-									"parameter_enable" : 0,
 									"patching_rect" : [ 406.375, 546.000488000000018, 83.0, 46.0 ],
 									"text_width" : 83.0,
 									"varname" : "attrui"
@@ -38158,7 +38179,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1691.361450000000104, 1456.189452999999958, 111.0, 34.0 ],
+					"patching_rect" : [ 1691.361450000000104, 1456.189452999999958, 111.0, 33.0 ],
 					"text" : "choose angle to work with (1,2 or 3)"
 				}
 
@@ -38229,7 +38250,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -38714,7 +38735,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -39186,7 +39207,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 2,
 							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -39420,7 +39441,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1582.300048999999944, 1717.833251999999902, 147.0, 36.0 ],
+					"patching_rect" : [ 1582.300048999999944, 1717.833251999999902, 147.0, 35.0 ],
 					"text" : "readtrack audio Solid_Discret_Cyclic.wav"
 				}
 
@@ -41421,7 +41442,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-38", 0 ],
+					"destination" : [ "obj-98", 0 ],
 					"source" : [ "obj-506", 0 ]
 				}
 
@@ -41551,7 +41572,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-581", 0 ],
+					"destination" : [ "obj-97", 0 ],
 					"source" : [ "obj-562", 0 ]
 				}
 
@@ -42117,6 +42138,20 @@
 				}
 
 			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-438", 2 ],
+					"source" : [ "obj-97", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-43", 2 ],
+					"source" : [ "obj-98", 0 ]
+				}
+
+			}
  ],
 		"parameters" : 		{
 			"obj-11" : [ "live.gain~[1]", "live.gain~", 0 ],
@@ -42142,90 +42177,66 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "1d-concat.maxpat",
-				"bootpath" : "~/OneDrive/Documentos/GitHub/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "imubu.mxe64",
-				"type" : "mx64"
-			}
-, 			{
 				"name" : "intensity.maxpat",
-				"bootpath" : "~/OneDrive/Documentos/GitHub/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "kick.maxpat",
-				"bootpath" : "~/OneDrive/Documentos/GitHub/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "mubu.concat~.mxe64",
-				"type" : "mx64"
+				"name" : "mubu.concat~.mxo",
+				"type" : "iLaX"
 			}
 , 			{
-				"name" : "mubu.knn.mxe64",
-				"type" : "mx64"
+				"name" : "mubu.knn.mxo",
+				"type" : "iLaX"
 			}
 , 			{
-				"name" : "mubu.mxe64",
-				"type" : "mx64"
+				"name" : "mubu.mxo",
+				"type" : "iLaX"
 			}
 , 			{
-				"name" : "mubu.play.mxe64",
-				"type" : "mx64"
+				"name" : "orientation.mxo",
+				"type" : "iLaX"
 			}
 , 			{
-				"name" : "mubu.process.mxe64",
-				"type" : "mx64"
+				"name" : "pipo.mxo",
+				"type" : "iLaX"
 			}
 , 			{
-				"name" : "mubu.record.mxe64",
-				"type" : "mx64"
-			}
-, 			{
-				"name" : "mubu.record~.mxe64",
-				"type" : "mx64"
-			}
-, 			{
-				"name" : "mubu.track.mxe64",
-				"type" : "mx64"
-			}
-, 			{
-				"name" : "orientation.mxe64",
-				"type" : "mx64"
-			}
-, 			{
-				"name" : "pipo.mxe64",
-				"type" : "mx64"
-			}
-, 			{
-				"name" : "pipo~.mxe64",
-				"type" : "mx64"
+				"name" : "pipo~.mxo",
+				"type" : "iLaX"
 			}
 , 			{
 				"name" : "riotbitalino.maxpat",
-				"bootpath" : "~/OneDrive/Documentos/GitHub/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "riots-bitalino-5new.maxpat",
-				"bootpath" : "~/OneDrive/Documentos/GitHub/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "yafr2.maxpat",
-				"bootpath" : "~/OneDrive/Documentos/GitHub/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
