@@ -1,8 +1,8 @@
 {
-	"name" : "Soniband-MartaMatamala",
+	"name" : "Soniband-DanielSanabria",
 	"version" : 1,
 	"creationdate" : 3757317964,
-	"modificationdate" : 3757664742,
+	"modificationdate" : 3758280628,
 	"viewrect" : [ 25.0, 107.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -48,6 +48,16 @@
 				"kind" : "audiofile",
 				"local" : 1
 			}
+,
+			"05-drops-B-C3.mp3" : 			{
+				"kind" : "audiofile",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Documents/GitHub/SoniBand-SoniShoes/Max/v9/media",
+					"projectrelativepath" : "../v9/media"
+				}
+
+			}
 
 		}
 ,
@@ -71,5 +81,6 @@
 	"devpathtype" : 0,
 	"devpath" : ".",
 	"sortmode" : 0,
-	"viewmode" : 0
+	"viewmode" : 0,
+	"includepackages" : 0
 }
