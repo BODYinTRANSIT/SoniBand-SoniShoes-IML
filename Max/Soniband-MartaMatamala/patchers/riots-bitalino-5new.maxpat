@@ -2955,8 +2955,8 @@
 					"numinlets" : 5,
 					"numoutlets" : 9,
 					"outlettype" : [ "", "", "", "", "", "int", "int", "", "float" ],
-					"patching_rect" : [ 1104.916625999999951, 153.0, 438.083344000000011, 22.0 ],
-					"text" : "riotbitalino 0 8890"
+					"patching_rect" : [ 1104.916625999999951, 153.0, 103.0, 22.0 ],
+					"text" : "riotbitalino 0 9999"
 				}
 
 			}
@@ -4549,8 +4549,8 @@
 					"numinlets" : 5,
 					"numoutlets" : 9,
 					"outlettype" : [ "", "", "", "", "", "int", "int", "", "float" ],
-					"patching_rect" : [ 578.916625999999951, 153.0, 438.083344000000011, 22.0 ],
-					"text" : "riotbitalino 0 9999"
+					"patching_rect" : [ 578.916625999999951, 153.0, 103.0, 22.0 ],
+					"text" : "riotbitalino 0 8890"
 				}
 
 			}
@@ -7225,7 +7225,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-68", 1 ],
-					"midpoints" : [ 1166.802044000000024, 187.0, 1372.699951000000056, 187.0 ],
+					"midpoints" : [ 1124.916625999999951, 187.0, 1372.699951000000056, 187.0 ],
 					"order" : 0,
 					"source" : [ "obj-77", 1 ]
 				}
