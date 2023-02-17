@@ -38,7 +38,7 @@ If needed you can reconfigure SoniBand to send the data to another IP address, f
 1. While pressing the right button turn on one RIoT the led light should blink in red, then turns green and finally turns blue, that means the RIoT is in hotspot mode <img src="assets/Picture_8.jpg" width="400">
 
 1. Then look for a RIOTxx among the WIFI signals
- <img src="assets/Picture_9.png" width="800">
+ <img src="assets/Picture_9.png" width="300">
 
 1. Configure the RIoT like in the following image
 1. SSID should be the same as the TP-Link and the same for the PSSWD
