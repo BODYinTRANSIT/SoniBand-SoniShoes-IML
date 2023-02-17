@@ -30,7 +30,7 @@
 1. Activate the sound clicking in the speaker icon at the left corner of the graphic interface
    1. A rumor should sound when you done
 1. Place the sensor with the bag aperture to the front
-1. (Option) Test if the sound is not so synchronous change the calibration in between 0.01-0.09  <img src="assets/Picture_7.png" width="800">
+1. (Option) Test if the sound is not so synchronous change the calibration in between 0.01-0.09  <img src="assets/Picture_7.png" width="300">
 
 ## Reconfigure SoniBand IP:
 If needed you can reconfigure SoniBand to send the data to another IP address, follow the next steps:
@@ -43,7 +43,7 @@ If needed you can reconfigure SoniBand to send the data to another IP address, f
 1. Configure the RIoT like in the following image
 1. SSID should be the same as the TP-Link and the same for the PSSWD
 1. In security select WPA2
-1. DEST IP, should be the one you have in the TP-Link Router. Commonly 192.168.1.100 <img src="assets/Picture_10.png" width="600"> 
+1. DEST IP, should be the one you have in the TP-Link Router. Commonly 192.168.1.100 <img src="assets/Picture_10.png" width="300"> 
 
 1. Repeat for every RIoT (Sensor). The port should be with the first 8888 and with the second 9999
 
