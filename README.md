@@ -35,7 +35,7 @@
 ## Reconfigure SoniBand IP:
 If needed you can reconfigure SoniBand to send the data to another IP address, follow the next steps:
 
-1. While pressing the right button turn on one RIoT the led light should blink in red, then turns green and finally turns blue, that means the RIoT is in hotspot mode <img src="assets/Picture_8.jpeg" width="800">
+1. While pressing the right button turn on one RIoT the led light should blink in red, then turns green and finally turns blue, that means the RIoT is in hotspot mode <img src="assets/Picture_8.jpg" width="800">
 
 1. Then look for a RIOTxx among the WIFI signals
  <img src="assets/Picture_9.png" width="800">
