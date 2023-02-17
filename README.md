@@ -3,7 +3,7 @@
 
 1. Download GitHub desktop <https://desktop.github.com> 
 1. Create an account in GitHub <https://github.com> 
-1. Clone the GitHub repository (<https://github.com/JoakuDeSotavento/SoniBand-SoniShoes>) (send a mail to the programmer to give you access) <img src="assets/Aspose.Words.f9038bfe-382e-4ecc-b851-c04c81d9918c.001.png" width="800">
+1. Clone the GitHub repository (<https://github.com/JoakuDeSotavento/SoniBand-SoniShoes>) (send a mail to the programmer to give you access) <img src="assets/Picture 1.png" width="800">
 1. Download MAX/MSP
    1. Create an account in MAX/MSP <https://cycling74.com> 
    1. Install MAX/MSP <https://cycling74.com/downloads> 
