@@ -2,7 +2,7 @@
 	"name" : "Soniband-DanielSanabria",
 	"version" : 1,
 	"creationdate" : 3757317964,
-	"modificationdate" : 3767090672,
+	"modificationdate" : 3767090697,
 	"viewrect" : [ 25.0, 107.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -10,12 +10,6 @@
 	"autolocalize" : 0,
 	"contents" : 	{
 		"patchers" : 		{
-			"SoniBand-SoniShoes.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1,
-				"toplevel" : 1
-			}
-,
 			"SoniBand-SoniShoes2presets.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
