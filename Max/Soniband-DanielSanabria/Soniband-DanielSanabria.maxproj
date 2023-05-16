@@ -2,7 +2,7 @@
 	"name" : "Soniband-DanielSanabria",
 	"version" : 1,
 	"creationdate" : 3757317964,
-	"modificationdate" : 3758280628,
+	"modificationdate" : 3767090672,
 	"viewrect" : [ 25.0, 107.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -14,6 +14,11 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"SoniBand-SoniShoes2presets.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 
 		}
@@ -53,7 +58,7 @@
 				"kind" : "audiofile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SoniBand-SoniShoes/Max/v9/media",
+					"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes/Max/v9/media",
 					"projectrelativepath" : "../v9/media"
 				}
 
@@ -81,6 +86,5 @@
 	"devpathtype" : 0,
 	"devpath" : ".",
 	"sortmode" : 0,
-	"viewmode" : 0,
-	"includepackages" : 0
+	"viewmode" : 0
 }
