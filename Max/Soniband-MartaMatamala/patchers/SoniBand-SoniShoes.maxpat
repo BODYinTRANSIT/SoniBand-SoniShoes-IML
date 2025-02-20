@@ -3,14 +3,14 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 3,
-			"revision" : 3,
+			"minor" : 5,
+			"revision" : 5,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 797.0, 53.0, 643.0, 813.0 ],
+		"rect" : [ 34.0, 66.0, 1139.0, 823.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -66,8 +66,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -746,8 +746,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -1385,8 +1385,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -2125,8 +2125,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -2515,8 +2515,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -2889,8 +2889,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -3545,8 +3545,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -4188,8 +4188,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -4860,8 +4860,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -5254,8 +5254,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -5746,8 +5746,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -6432,8 +6432,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -6697,8 +6697,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -7165,8 +7165,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -7430,8 +7430,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -7815,8 +7815,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -7850,7 +7850,6 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-19",
@@ -8617,8 +8616,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -9055,8 +9054,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -9693,8 +9692,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -10228,8 +10227,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -10263,7 +10262,6 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"comment" : "",
@@ -10628,8 +10626,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -11125,8 +11123,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -11976,8 +11974,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -12554,8 +12552,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 3,
+											"minor" : 5,
+											"revision" : 5,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -13605,8 +13603,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 3,
+											"minor" : 5,
+											"revision" : 5,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -15269,8 +15267,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -16855,8 +16853,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -17304,8 +17302,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -17763,8 +17761,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -18265,8 +18263,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -18338,8 +18336,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 3,
+											"minor" : 5,
+											"revision" : 5,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -18536,6 +18534,7 @@
 													"bufferchooser_shape" : "buttons",
 													"bufferchooser_size" : 20,
 													"bufferchooser_visible" : 1,
+													"continousediting" : 0,
 													"cursor_circleedgecolor" : [ 1.0, 0.0, 0.0, 1.0 ],
 													"cursor_circlefillcolor" : [ 1.0, 0.0, 0.0, 1.0 ],
 													"cursor_circlefilled" : 1,
@@ -18567,6 +18566,7 @@
 													"freeze" : 0,
 													"id" : "obj-27",
 													"layout" : 0,
+													"maintrack" : -1,
 													"maxclass" : "imubu",
 													"mousewheelscroll" : 0,
 													"name" : "splash",
@@ -18622,8 +18622,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 3,
+															"minor" : 5,
+															"revision" : 5,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -19254,8 +19254,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 3,
+											"minor" : 5,
+											"revision" : 5,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -19790,8 +19790,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 3,
+											"minor" : 5,
+											"revision" : 5,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -19894,8 +19894,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 3,
+															"minor" : 5,
+															"revision" : 5,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -21286,8 +21286,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -21864,8 +21864,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 3,
+											"minor" : 5,
+											"revision" : 5,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -22915,8 +22915,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 3,
+											"minor" : 5,
+											"revision" : 5,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -24875,8 +24875,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -25453,8 +25453,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 3,
+											"minor" : 5,
+											"revision" : 5,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -26504,8 +26504,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 3,
+											"minor" : 5,
+											"revision" : 5,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -28544,8 +28544,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -28784,8 +28784,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 3,
+											"minor" : 5,
+											"revision" : 5,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -29251,8 +29251,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -29286,7 +29286,6 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-16",
@@ -29877,8 +29876,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -29912,7 +29911,6 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"format" : 6,
@@ -30042,13 +30040,12 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-9",
-									"linecount" : 2,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 105.0, 257.0, 65.0, 35.0 ],
-									"text" : "-92.258098"
+									"patching_rect" : [ 105.0, 257.0, 65.0, 22.0 ],
+									"text" : "bang"
 								}
 
 							}
@@ -30442,8 +30439,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -30524,8 +30521,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 3,
+											"minor" : 5,
+											"revision" : 5,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -31022,8 +31019,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -31649,8 +31646,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -31931,7 +31928,7 @@
 					"patching_rect" : [ 296.916656494140625, 106.333328247070312, 29.5, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 141.91662599999998, 132.333328247070312, 29.5, 22.0 ],
-					"text" : "2"
+					"text" : "1"
 				}
 
 			}
@@ -31998,16 +31995,16 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-85",
-					"linecount" : 3,
+					"linecount" : 4,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 32.4539794921875, 195.3565673828125, 315.0, 49.0 ],
+					"patching_rect" : [ 32.4539794921875, 195.3565673828125, 315.0, 62.0 ],
 					"presentation" : 1,
-					"presentation_linecount" : 3,
-					"presentation_rect" : [ -102.962646484375, 221.3565673828125, 315.0, 49.0 ],
-					"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/_02-D2023_25_01-T16_27_34.mubu\""
+					"presentation_linecount" : 4,
+					"presentation_rect" : [ -102.962646484375, 221.3565673828125, 315.0, 62.0 ],
+					"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/Prueba Marta/asc_prolonged__01-D2024_27_02-T17_43_50.mubu\""
 				}
 
 			}
@@ -32049,8 +32046,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -33385,14 +33382,14 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 34.0, 100.0, 1444.0, 785.0 ],
+						"rect" : [ 609.0, 293.0, 1444.0, 785.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -33420,6 +33417,7 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-1",
@@ -33455,14 +33453,14 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 3,
+											"minor" : 5,
+											"revision" : 5,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
 ,
 										"classnamespace" : "box",
-										"rect" : [ 39.0, 79.0, 1207.0, 596.0 ],
+										"rect" : [ 39.0, 100.0, 1207.0, 596.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -34154,6 +34152,7 @@
 									"bufferchooser_shape" : "buttons",
 									"bufferchooser_size" : 15,
 									"bufferchooser_visible" : 0,
+									"continousediting" : 0,
 									"cursor_circleedgecolor" : [ 1.0, 0.0, 0.0, 1.0 ],
 									"cursor_circlefillcolor" : [ 1.0, 0.0, 0.0, 1.0 ],
 									"cursor_circlefilled" : 1,
@@ -34164,12 +34163,12 @@
 									"cursor_nearest" : 0,
 									"cursor_nearestcolor" : [ 1.0, 0.0, 0.0, 1.0 ],
 									"cursor_noringoffset" : 0,
-									"cursor_position" : -1.0,
+									"cursor_position" : 5245.0,
 									"cursor_shape" : "bar",
 									"cursor_size" : 3,
 									"cursor_sizeunit" : 0,
 									"cursor_visible" : 1,
-									"domain_bounds" : [ 0.0, 19.38776 ],
+									"domain_bounds" : [ 0.0, 6035.0 ],
 									"domainruler_bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 									"domainruler_fgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 									"domainruler_grid" : 0,
@@ -34185,6 +34184,7 @@
 									"freeze" : 0,
 									"id" : "obj-30",
 									"layout" : 0,
+									"maintrack" : -1,
 									"maxclass" : "imubu",
 									"mousewheelscroll" : 0,
 									"name" : "data",
@@ -34464,8 +34464,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -34585,8 +34585,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 3,
+											"minor" : 5,
+											"revision" : 5,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -35403,8 +35403,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 3,
+											"minor" : 5,
+											"revision" : 5,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -35537,8 +35537,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 3,
+															"minor" : 5,
+															"revision" : 5,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -35580,7 +35580,7 @@
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 231.0, 320.0, 50.0, 22.0 ],
-																	"text" : "_02"
+																	"text" : "_01"
 																}
 
 															}
@@ -35861,7 +35861,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 302.0, 352.0, 471.5, 21.0 ],
-													"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/\""
+													"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/Prueba Marta/\""
 												}
 
 											}
@@ -35878,8 +35878,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 3,
+															"minor" : 5,
+															"revision" : 5,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -35926,8 +35926,8 @@
 																		"fileversion" : 1,
 																		"appversion" : 																		{
 																			"major" : 8,
-																			"minor" : 3,
-																			"revision" : 3,
+																			"minor" : 5,
+																			"revision" : 5,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -36193,8 +36193,8 @@
 																		"fileversion" : 1,
 																		"appversion" : 																		{
 																			"major" : 8,
-																			"minor" : 3,
-																			"revision" : 3,
+																			"minor" : 5,
+																			"revision" : 5,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -36459,8 +36459,8 @@
 																		"fileversion" : 1,
 																		"appversion" : 																		{
 																			"major" : 8,
-																			"minor" : 3,
-																			"revision" : 3,
+																			"minor" : 5,
+																			"revision" : 5,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -36725,8 +36725,8 @@
 																		"fileversion" : 1,
 																		"appversion" : 																		{
 																			"major" : 8,
-																			"minor" : 3,
-																			"revision" : 3,
+																			"minor" : 5,
+																			"revision" : 5,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -36991,8 +36991,8 @@
 																		"fileversion" : 1,
 																		"appversion" : 																		{
 																			"major" : 8,
-																			"minor" : 3,
-																			"revision" : 3,
+																			"minor" : 5,
+																			"revision" : 5,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -37691,12 +37691,13 @@
 													"fontname" : "Arial",
 													"fontsize" : 11.0,
 													"id" : "obj-41",
+													"linecount" : 2,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 374.0, 445.0, 552.0, 33.0 ],
-													"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/_02-D2023_25_01-T16_27_34\""
+													"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/Prueba Marta/asc_prolonged__01-D2024_27_02-T17_43_50\""
 												}
 
 											}
@@ -38045,8 +38046,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 3,
+											"minor" : 5,
+											"revision" : 5,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -38898,7 +38899,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 486.0, 660.3565673828125, 909.0, 22.0 ],
-									"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/_02-D2023_25_01-T16_27_34\""
+									"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/Prueba Marta/asc_prolonged__01-D2024_27_02-T17_43_50\""
 								}
 
 							}
@@ -38960,8 +38961,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 3,
-											"revision" : 3,
+											"minor" : 5,
+											"revision" : 5,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -39551,8 +39552,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 3,
-															"revision" : 3,
+															"minor" : 5,
+															"revision" : 5,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -42058,8 +42059,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -43886,8 +43887,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -44371,8 +44372,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -44843,8 +44844,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 3,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -48321,21 +48322,25 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "1d-concat.maxpat",
-				"bootpath" : "~/Documents/GitHub/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes-IML/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
+				"name" : "imubu.mxo",
+				"type" : "iLaX"
+			}
+, 			{
 				"name" : "intensity.maxpat",
-				"bootpath" : "~/Documents/GitHub/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes-IML/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "kick.maxpat",
-				"bootpath" : "~/Documents/GitHub/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes-IML/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -48353,6 +48358,26 @@
 				"type" : "iLaX"
 			}
 , 			{
+				"name" : "mubu.play.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "mubu.process.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "mubu.record.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "mubu.record~.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "mubu.track.mxo",
+				"type" : "iLaX"
+			}
+, 			{
 				"name" : "orientation.mxo",
 				"type" : "iLaX"
 			}
@@ -48366,21 +48391,21 @@
 			}
 , 			{
 				"name" : "riotbitalino.maxpat",
-				"bootpath" : "~/Documents/GitHub/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes-IML/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "riots-bitalino-5new.maxpat",
-				"bootpath" : "~/Documents/GitHub/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes-IML/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "yafr2.maxpat",
-				"bootpath" : "~/Documents/GitHub/SoniBand-SoniShoes/Max/Soniband-MartaMatamala/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes-IML/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1

@@ -23192,13 +23192,13 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-8",
-									"linecount" : 4,
+									"linecount" : 2,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 172.0, 257.0, 29.5, 49.0 ],
-									"text" : "-113.058643"
+									"text" : "51.045"
 								}
 
 							}
@@ -27524,7 +27524,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1550.414318499999808, 3204.751709000000119, 25.0, 96.0 ],
+					"patching_rect" : [ 1553.414318499999808, 3204.751709000000119, 25.0, 96.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 879.470596313476562, 362.240043672363299, 25.0, 96.0 ],
 					"setminmax" : [ 0.0, 1.0 ],
@@ -45359,7 +45359,7 @@
 					"patching_rect" : [ 307.916656494140625, 106.333328247070312, 29.5, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 380.28729248046875, 377.380203279296893, 29.5, 22.0 ],
-					"text" : "1"
+					"text" : "2"
 				}
 
 			}
@@ -45427,16 +45427,16 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-85",
-					"linecount" : 3,
+					"linecount" : 4,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 34.4539794921875, 195.3565673828125, 315.0, 49.0 ],
+					"patching_rect" : [ 34.4539794921875, 195.3565673828125, 315.0, 62.0 ],
 					"presentation" : 1,
-					"presentation_linecount" : 3,
-					"presentation_rect" : [ 135.408019996093742, 466.403442415039081, 315.0, 49.0 ],
-					"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/prueba SoniData/P0-a ver_01-D2023_21_11-T16_52_52.mubu\""
+					"presentation_linecount" : 4,
+					"presentation_rect" : [ 135.408019996093742, 466.403442415039081, 315.0, 62.0 ],
+					"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/UCLIC tutorial 2023/recording test2/P0-uu_02-D2023_22_11-T17_35_32.mubu\""
 				}
 
 			}
@@ -46849,7 +46849,6 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-1",
@@ -47595,12 +47594,12 @@
 									"cursor_nearest" : 0,
 									"cursor_nearestcolor" : [ 1.0, 0.0, 0.0, 1.0 ],
 									"cursor_noringoffset" : 0,
-									"cursor_position" : 0.0,
+									"cursor_position" : -1.0,
 									"cursor_shape" : "bar",
 									"cursor_size" : 3,
 									"cursor_sizeunit" : 0,
 									"cursor_visible" : 1,
-									"domain_bounds" : [ 0.0, 6445.0 ],
+									"domain_bounds" : [ 0.0, 19.38776 ],
 									"domainruler_bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 									"domainruler_fgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 									"domainruler_grid" : 0,
@@ -49012,7 +49011,7 @@
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 231.0, 320.0, 50.0, 22.0 ],
-																	"text" : "_01"
+																	"text" : "_02"
 																}
 
 															}
@@ -49293,7 +49292,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 302.0, 352.0, 471.5, 21.0 ],
-													"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/prueba SoniData/\""
+													"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/UCLIC tutorial 2023/recording test2/\""
 												}
 
 											}
@@ -51123,12 +51122,13 @@
 													"fontname" : "Arial",
 													"fontsize" : 11.0,
 													"id" : "obj-41",
+													"linecount" : 2,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 374.0, 445.0, 552.0, 33.0 ],
-													"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/prueba SoniData/P0-a ver_01-D2023_21_11-T16_52_52\""
+													"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/UCLIC tutorial 2023/recording test2/P0-uu_02-D2023_22_11-T17_35_32\""
 												}
 
 											}
@@ -52330,7 +52330,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 486.0, 660.3565673828125, 909.0, 22.0 ],
-									"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/prueba SoniData/P0-a ver_01-D2023_21_11-T16_52_52\""
+									"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/UCLIC tutorial 2023/recording test2/P0-uu_02-D2023_22_11-T17_35_32\""
 								}
 
 							}
